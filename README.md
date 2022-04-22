@@ -9,7 +9,7 @@ Using this model, BigMart will try to understand the properties of products and 
 Please note that the data may have missing values as some stores might not report all the data due to technical glitches. Hence, it will be required to treat them accordingly.
 
 Table of Content
-Step 1: Importing the Relevant Libraries
+Step 1: Importing the Relevant Libraries.
 
 Step 2: Data Inspection
 
